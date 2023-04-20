@@ -1632,3 +1632,32 @@ $kbd-bg:                            var(--#{$prefix}body-color) !default;
 $nested-kbd-font-weight:            null !default; // Deprecated in v5.2.0, removing in v6
 
 $pre-color:                         null !default;
+
+//HEADER
+.bg-principal {
+  background-color:brown;
+}
+
+header.row {
+  background-color: brown;
+}
+
+.header {
+  background-color: brown;
+}
+
+//FOOTER
+footer.row {
+  background-color: brown;
+}
+
+.footer{
+  background-color: brown;
+}
+
+.foo{
+  background-color: brown;
+}
+
+
+
